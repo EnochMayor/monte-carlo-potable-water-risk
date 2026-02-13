@@ -24,11 +24,3 @@ This workflow supports evidence-based decisions on **which source is safer**, an
 ## Tools
 Python (simulation + risk calculations) • statistical analysis • reporting workflow
 
-## Repo contents
-- `notebooks/` Monte Carlo + risk calculation workflow
-- `data/` sample/anonymized dataset (or synthetic demo dataset)
-- `figures/` risk distributions + exceedance probability plots
-- `docs/` short technical memo (2–4 pages)
-
-## Notes
-Sensitive/real-world data can be replaced with anonymized or synthetic inputs while keeping the methodology identical.
